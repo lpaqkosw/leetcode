@@ -1,4 +1,4 @@
-public class p9 {
+public class p00009 {
     public static boolean isPalindrome(int x) {
         if(x<0) return false;
         StringBuffer sb = new StringBuffer();

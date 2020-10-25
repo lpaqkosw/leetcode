@@ -1,4 +1,4 @@
-public class p7 {
+public class p00007 {
     public static int reverse(int x) {
         // boolean positive = x >= 0? true:false;
         // String str = Integer.toString(x);

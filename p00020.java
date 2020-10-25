@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;
 
-public class p20 {
+public class p00020 {
     public static boolean isValid(String s) {
         Stack<Character> stack = new Stack<Character>();
         Map<Character,Character> dict = new HashMap<Character,Character>();
