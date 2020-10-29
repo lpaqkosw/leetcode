@@ -23,7 +23,9 @@ public class p00007 {
     }
 
     public static void main(String[] args) {
-        int input = -2147483648;
+        // int input = -2147483648;
+        int input = -1999999999;
+        // System.out.println(reverse(input));
         System.out.println(reverse(input));
 
     }
